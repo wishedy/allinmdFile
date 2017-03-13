@@ -1,0 +1,4 @@
+[
+  {"name":"登录注册","func":["a","b"],"des":"实现登录注册","attention":"","comp":"","scene":""},
+  {"name":"认证","func":["a","b"],"des":"实现认证"}
+]
